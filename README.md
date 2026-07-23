@@ -24,6 +24,8 @@ box-dweller/
 └── media/                 截图与录屏
 ```
 
+原型[使用说明](prototype/box-dweller/README.md)。
+
 ## 路线图
 
 - [x] 创建项目原型
