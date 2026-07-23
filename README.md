@@ -1,10 +1,3 @@
----
-author: []
-date:
-  create: '20260723'
-  modified: '20260724'
-note: ''
----
 # 盒中人 (Box Dweller)
 
 ![status](https://img.shields.io/badge/status-prototype-e8a33d?style=flat-square)
