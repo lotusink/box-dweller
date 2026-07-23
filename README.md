@@ -1,7 +1,16 @@
+---
+author: []
+date:
+  create: '20260723'
+  modified: '20260724'
+note: ''
+---
 # 盒中人 (Box Dweller)
 
 ![status](https://img.shields.io/badge/status-prototype-e8a33d?style=flat-square)
 [![license](https://img.shields.io/badge/license-MIT-4a7c9e?style=flat-square)](LICENSE)
+![react](https://img.shields.io/badge/react-19-4a7c9e?style=flat-square&logo=react&logoColor=white)
+![vite](https://img.shields.io/badge/vite-8-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
 ## 概述
@@ -24,5 +33,7 @@ box-dweller/
 
 ## 路线图
 
+- [x] 创建项目原型
+- [ ] 优化代码结构
 - [ ] 优化 L0 原语协议
 - [ ] 优化大模型反思
